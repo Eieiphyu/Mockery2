@@ -1,2 +1,2 @@
 # Mockery2
-study in UIUX with link2
+UI UX design
